@@ -1,0 +1,28 @@
+
+Log Entry :
+10/09/2019 09:32:41
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/09/2019 11:24:36
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/09/2019 16:03:54
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/09/2019 18:02:50
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================

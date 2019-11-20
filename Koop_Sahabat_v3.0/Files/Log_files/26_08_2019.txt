@@ -1,0 +1,56 @@
+
+Log Entry :
+08/26/2019 09:19:27
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+08/26/2019 09:32:47
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+08/26/2019 09:56:14
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+08/26/2019 12:23:15
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+08/26/2019 13:53:42
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+08/26/2019 15:15:33
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+08/26/2019 16:17:17
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+08/26/2019 17:37:25
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================

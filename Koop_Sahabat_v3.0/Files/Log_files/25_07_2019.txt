@@ -1,0 +1,116 @@
+
+Log Entry :
+07/25/2019 09:05:02
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 09:31:17
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 10:03:44
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 10:04:35
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 10:05:35
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 10:06:06
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 10:06:19
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 10:30:06
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 11:45:51
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 11:55:26
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 12:26:32
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 13:57:27
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 15:55:53
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 16:12:55
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 1053Line :1140
+==========================================
+
+Log Entry :
+07/25/2019 16:58:21
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/25/2019 18:10:00
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================

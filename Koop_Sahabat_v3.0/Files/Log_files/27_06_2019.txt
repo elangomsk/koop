@@ -1,0 +1,77 @@
+
+Log Entry :
+06/27/2019 10:27:51
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/27/2019 10:29:00
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 890901025860Line :109
+==========================================
+
+Log Entry :
+06/27/2019 10:30:54
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 890901025860Line :109
+==========================================
+
+Log Entry :
+06/27/2019 10:40:46
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 451126125072Line :109
+==========================================
+
+Log Entry :
+06/27/2019 14:27:54
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/27/2019 14:28:09
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/27/2019 14:28:22
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 451126125072Line :109
+==========================================
+
+Log Entry :
+06/27/2019 14:40:10
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 451126125072Line :109
+==========================================
+
+Log Entry :
+06/27/2019 15:37:53
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/27/2019 15:41:24
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/27/2019 17:23:12
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================

@@ -1,0 +1,239 @@
+
+Log Entry :
+04/02/2019 09:09:54
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/02/2019 09:17:09
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/02/2019 09:20:36
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/02/2019 10:54:51
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/02/2019 12:13:14
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/02/2019 12:13:28
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/02/2019 12:32:45
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/02/2019 14:10:48
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/02/2019 14:26:58
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/02/2019 14:28:13
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K040217Line :108
+==========================================
+
+Log Entry :
+04/02/2019 14:28:46
+Error in: http://localhost:60787/SUMBER_MANUSIA/HR_tuntutan.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at HR_tuntutan.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\01_04_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_tuntutan.aspx.cs:line 339Line :428
+==========================================
+
+Log Entry :
+04/02/2019 14:29:05
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 14:47:30
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/02/2019 14:53:02
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/02/2019 14:53:19
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 14:59:10
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 15:25:53
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:01:14
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:01:44
+Error in: http://localhost:60787/SUMBER_MANUSIA/HR_tuntutan.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at HR_tuntutan.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\01_04_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_tuntutan.aspx.cs:line 339Line :428
+==========================================
+
+Log Entry :
+04/02/2019 16:01:56
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:05:19
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:10:43
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:23:52
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K040217Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:25:45
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K040217Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:27:59
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:28:08
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:28:37
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:31:31
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/02/2019 16:58:49
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 17:03:07
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/02/2019 17:34:14
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/02/2019 17:34:26
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/02/2019 17:50:23
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================

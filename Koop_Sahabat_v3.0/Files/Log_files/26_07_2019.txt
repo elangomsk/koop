@@ -1,0 +1,67 @@
+
+Log Entry :
+07/26/2019 09:18:14
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/26/2019 10:21:07
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/26/2019 11:20:35
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/26/2019 12:08:47
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/26/2019 12:36:19
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/26/2019 14:22:22
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/26/2019 15:28:20
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/26/2019 15:51:04
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 1062Line :1149
+==========================================
+
+Log Entry :
+07/26/2019 16:06:15
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================

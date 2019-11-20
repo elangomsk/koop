@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="ModuleMaster.master.cs" Inherits="ModuleMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>KS Integrated Management System</title>
+
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="Login_assets/ico/favicon.png" />
+
+    <!-- Bootstrap 3.3.7 -->
+    <link rel="stylesheet" href="kAIMb_components/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="kAIMb_components/font-awesome/css/font-awesome.min.css" />
+
+    <link rel="stylesheet" type="text/css" href="../dist/css/mystyle.css" />
+    <link rel="stylesheet" href="dist/css/AdminLTE.min.css" />
+    <link rel="stylesheet" href="Font/css/css.css" />
+    <link href="kAIMb_components/nprogress/nprogress.css" rel="stylesheet" />
+    <%--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic" />--%>
+     <style>
+@media (min-width: 1000px) {
+  .container {
+    width: 1000px !important;
+  }
+}
+@media (min-width: 1100px) {
+  .container {
+    width: 1100px !important;
+  }
+}
+ @media (min-width: 1200px) {
+  .container {
+    width: 1170px !important;
+  }
+}
+ .navbar-custom-menu ul li a:hover, .navbar-custom-menu ul .open a:focus{
+     background-color:transparent;
+ }
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+         <div class="container">
+             <div class="navbar-header navbar-brand-cus">
+              <a class="navbar-brand navbar-brand-custom" href="../KSAIMB_Home.aspx">
+                   <img src="../Login_assets/img/sahabat_logo.png" /><%--<strong>Koperasi THB</strong>--%>&nbsp;
+              </a> 
+            </div>
+          </div>
+        <nav class="navbar navbar-custom navbar-static-top">
+          <div class="container navbar-custom-menu">
+              <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown user user-menu">
+                                    <a href="#" style="pointer-events:none;" >
+                                          <asp:Image ID="ImgPrv_top_small" runat="server" class="user-image" alt="User Image"/>
+                                        <span class="hidden-xs"><asp:Label ID="lbluname" runat="server" Text="Label" CssClass="uppercase"></asp:Label></span>
+                                    </a>  
+                     </li>
+                  <li class="nav-item dropdown">                  
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <i class="fa fa-bell"></i>
+                                        <span class="badge-not badge badge-primary"><asp:Label ID="notify_cnt" runat="server"></asp:Label></span>
+                                    </a>
+                                     <div class="dropdown-menu dropdown-menu-noti" aria-labelledby="navbarDropdown">
+                                      <div class="notification-heading"><h4 class="menu-title">Notifications</h4><h4 class="menu-title pull-right">View all<i class="glyphicon glyphicon-circle-arrow-right"></i></h4>
+                                    </div>
+                                    <span class="divider"></span>
+                                   <div class="notifications-wrapper">
+                                     <a class="content" href="#">
+      
+                                       <div class="notification-item">
+                                        <h4 class="item-title">Empty !</h4>
+                                        <p class="item-info"></p>
+                                      </div>
+       
+                                    </a>
+                                    
+                                   </div>
+                                   <%-- <span class="divider"></span>
+                                    <div class="notification-footer"><h4 class="menu-title">View all<i class="glyphicon glyphicon-circle-arrow-right"></i></h4></div>--%>
+                                    </div>
+                                </li>
+
+                  <li>                  
+                     <a href="#" class="mb-control" data-box="#mb-signout"><i class="fa fa-sign-out fa-fw"></i></a>
+                  </li>             
+                               
+              </ul>
+          </div>
+        </nav>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <footer class="footer footer-content-btm">
+              <div class="container text-center">
+                <div class="footer-content-btm-text">
+                    <p>&copy; <%: DateTime.Now.Year %> - <asp:Label ID="ft_copy" runat="server" ></asp:Label></p>
+                </div>
+             </div>
+            </footer>
+          <!-- MESSAGE BOX-->
+        <div class="message-box animated fadeIn" data-sound="alert" id="mb-signout">
+            <div class="mb-container">
+                <div class="mb-middle">
+                    <div class="mb-title"><span class="fa fa-sign-out"></span>Keluar ?</div>
+                    <div class="mb-content">
+                        <p>Are you sure you want to log out?</p>
+                        <p>Press No if youwant to continue work. Press Yes to logout current user.</p>
+                    </div>
+                    <div class="mb-footer">
+                        <div class="pull-right">
+                            <a href="KSAIMB_Logout.aspx" class="btn btn-primary btn-lg">Yes</a>
+                            <button class="btn btn-default btn-lg mb-control-close">No</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END MESSAGE BOX-->
+
+        <script src="Login_assets/plugins/validationengine/js/jquery-1.8.2.min.js"></script>
+        <script src="../kAIMb_components/jquery/dist/jquery.min.js"></script>
+          <script src="../kAIMb_components/nprogress/actions.js"></script>  
+        <script src="../kAIMb_components/nprogress/nprogress.js"></script>
+        <script src="../kAIMb_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    </form>
+</body>
+</html>

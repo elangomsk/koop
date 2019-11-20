@@ -1,0 +1,185 @@
+
+Log Entry :
+07/24/2019 09:41:30
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 11:08:30
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 11:16:12
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 20060     Line :109
+==========================================
+
+Log Entry :
+07/24/2019 11:20:15
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10009Line :109
+==========================================
+
+Log Entry :
+07/24/2019 11:38:01
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 11:38:55
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 511220085064Line :109
+==========================================
+
+Log Entry :
+07/24/2019 11:51:40
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 511220085064Line :109
+==========================================
+
+Log Entry :
+07/24/2019 12:15:57
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 14:20:59
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 14:24:53
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 15:08:17
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 15:24:14
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 945Line :1032
+==========================================
+
+Log Entry :
+07/24/2019 16:06:27
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 1047Line :1134
+==========================================
+
+Log Entry :
+07/24/2019 16:08:21
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 1051Line :1138
+==========================================
+
+Log Entry :
+07/24/2019 16:12:46
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 1051Line :1138
+==========================================
+
+Log Entry :
+07/24/2019 16:16:41
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 1052Line :1139
+==========================================
+
+Log Entry :
+07/24/2019 16:17:00
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 1052Line :1139
+==========================================
+
+Log Entry :
+07/24/2019 16:43:42
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 16:45:11
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 17:09:50
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 17:35:40
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 18:33:29
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/24/2019 18:34:29
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================

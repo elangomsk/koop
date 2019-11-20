@@ -1,0 +1,7 @@
+
+Log Entry :
+05/17/2019 09:42:46
+Error in: http://localhost:53845/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================

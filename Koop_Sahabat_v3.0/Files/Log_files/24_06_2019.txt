@@ -1,0 +1,77 @@
+
+Log Entry :
+06/24/2019 09:18:48
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 09:49:26
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 11:11:51
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 11:12:55
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 11:39:04
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 12:17:06
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 12:59:19
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 14:12:46
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 14:33:39
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 15:02:45
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+06/24/2019 15:52:13
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================

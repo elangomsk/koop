@@ -1,0 +1,81 @@
+
+Log Entry :
+08/14/2019 09:23:03
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :112
+==========================================
+
+Log Entry :
+08/14/2019 09:48:47
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :112
+==========================================
+
+Log Entry :
+08/14/2019 10:42:03
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :112
+==========================================
+
+Log Entry :
+08/14/2019 14:46:51
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :112
+==========================================
+
+Log Entry :
+08/14/2019 15:09:43
+Error in: http://localhost:49572/SUMBER_MANUSIA/hr_gaji_kelompok.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at hr_gaji_kelompok.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\hr_gaji_kelompok.aspx.cs:line 975Line :1047
+==========================================
+
+Log Entry :
+08/14/2019 15:10:19
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 1072Line :1159
+==========================================
+
+Log Entry :
+08/14/2019 15:14:29
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :112
+==========================================
+
+Log Entry :
+08/14/2019 15:49:31
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :112
+==========================================
+
+Log Entry :
+08/14/2019 16:14:14
+Error in: http://localhost:49572/SUMBER_MANUSIA/kelulusan_gaji.aspx. 
+
+ Error Message:System.ArgumentException: The parameter 'address' cannot be an empty string.
+Parameter name: address
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at kelulusan_gaji.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\15_07_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\kelulusan_gaji.aspx.cs:line 1075Line :1162
+==========================================
+
+Log Entry :
+08/14/2019 17:49:26
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :112
+==========================================

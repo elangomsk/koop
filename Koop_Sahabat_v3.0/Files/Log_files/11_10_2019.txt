@@ -1,0 +1,90 @@
+
+Log Entry :
+10/11/2019 10:19:54
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/11/2019 10:23:38
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/11/2019 10:37:52
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10012     Line :114
+==========================================
+
+Log Entry :
+10/11/2019 10:44:37
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/11/2019 10:49:54
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10012     Line :114
+==========================================
+
+Log Entry :
+10/11/2019 10:55:02
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/11/2019 11:10:31
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10012     Line :114
+==========================================
+
+Log Entry :
+10/11/2019 11:10:54
+Error in: http://localhost:50017/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\30_09_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1262Line :1329
+==========================================
+
+Log Entry :
+10/11/2019 11:12:26
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10012     Line :114
+==========================================
+
+Log Entry :
+10/11/2019 11:15:20
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10012     Line :114
+==========================================
+
+Log Entry :
+10/11/2019 11:20:38
+Error in: http://localhost:50017/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\30_09_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1290Line :1357
+==========================================
+
+Log Entry :
+10/11/2019 16:54:13
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================

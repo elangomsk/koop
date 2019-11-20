@@ -1,0 +1,80 @@
+
+Log Entry :
+10/07/2019 10:02:53
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/07/2019 10:03:32
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10033     Line :114
+==========================================
+
+Log Entry :
+10/07/2019 10:15:13
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/07/2019 11:00:50
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/07/2019 11:02:48
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10012     Line :114
+==========================================
+
+Log Entry :
+10/07/2019 11:03:05
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/07/2019 14:09:27
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/07/2019 14:26:40
+Error in: http://localhost:50017/SUMBER_MANUSIA/HR_DAFTER_STAFF.aspx?edit=5GyUvBzHfCsMY7p8k+woz7yvWg5lnaAjLP8KDVYg6Wk=. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_DAFTER_STAFF.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\30_09_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_DAFTER_STAFF.aspx.cs:line 1555Line :1652
+==========================================
+
+Log Entry :
+10/07/2019 14:39:06
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/07/2019 15:51:39
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/07/2019 16:53:41
+Error in: http://localhost:50017/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================

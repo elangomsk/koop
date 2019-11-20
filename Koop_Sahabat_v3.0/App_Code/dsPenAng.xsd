@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPenAng" targetNamespace="http://tempuri.org/dsPenAng.xsd" xmlns:mstns="http://tempuri.org/dsPenAng.xsd" xmlns="http://tempuri.org/dsPenAng.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPenAng" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsPenAng" msprop:Generator_UserDSName="dsPenAng">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtRingkasan" msprop:Generator_TableClassName="dtRingkasanDataTable" msprop:Generator_TableVarName="tabledtRingkasan" msprop:Generator_RowChangedName="dtRingkasanRowChanged" msprop:Generator_TablePropName="dtRingkasan" msprop:Generator_RowDeletingName="dtRingkasanRowDeleting" msprop:Generator_RowChangingName="dtRingkasanRowChanging" msprop:Generator_RowEvHandlerName="dtRingkasanRowChangeEventHandler" msprop:Generator_RowDeletedName="dtRingkasanRowDeleted" msprop:Generator_RowClassName="dtRingkasanRow" msprop:Generator_UserTableName="dtRingkasan" msprop:Generator_RowEvArgName="dtRingkasanRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="set_reason_cd" msprop:Generator_ColumnVarNameInTable="columnset_reason_cd" msprop:Generator_ColumnPropNameInRow="set_reason_cd" msprop:Generator_ColumnPropNameInTable="set_reason_cdColumn" msprop:Generator_UserColumnName="set_reason_cd" type="xs:string" minOccurs="0" />
+              <xs:element name="set_apply_amt" msprop:Generator_ColumnVarNameInTable="columnset_apply_amt" msprop:Generator_ColumnPropNameInRow="set_apply_amt" msprop:Generator_ColumnPropNameInTable="set_apply_amtColumn" msprop:Generator_UserColumnName="set_apply_amt" type="xs:string" minOccurs="0" />
+              <xs:element name="BilAnggota" msprop:Generator_ColumnVarNameInTable="columnBilAnggota" msprop:Generator_ColumnPropNameInRow="BilAnggota" msprop:Generator_ColumnPropNameInTable="BilAnggotaColumn" msprop:Generator_UserColumnName="BilAnggota" type="xs:string" minOccurs="0" />
+              <xs:element name="kavasan_name" msprop:Generator_ColumnVarNameInTable="columnkavasan_name" msprop:Generator_ColumnPropNameInRow="kavasan_name" msprop:Generator_ColumnPropNameInTable="kavasan_nameColumn" msprop:Generator_UserColumnName="kavasan_name" type="xs:string" minOccurs="0" />
+              <xs:element name="cawangan_name" msprop:Generator_ColumnVarNameInTable="columncawangan_name" msprop:Generator_ColumnPropNameInRow="cawangan_name" msprop:Generator_ColumnPropNameInTable="cawangan_nameColumn" msprop:Generator_UserColumnName="cawangan_name" type="xs:string" minOccurs="0" />
+              <xs:element name="Applicant_Name" msprop:Generator_ColumnVarNameInTable="columnApplicant_Name" msprop:Generator_ColumnPropNameInRow="Applicant_Name" msprop:Generator_ColumnPropNameInTable="Applicant_NameColumn" msprop:Generator_UserColumnName="Applicant_Name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtSenarai" msprop:Generator_TableClassName="dtSenaraiDataTable" msprop:Generator_TableVarName="tabledtSenarai" msprop:Generator_RowChangedName="dtSenaraiRowChanged" msprop:Generator_TablePropName="dtSenarai" msprop:Generator_RowDeletingName="dtSenaraiRowDeleting" msprop:Generator_RowChangingName="dtSenaraiRowChanging" msprop:Generator_RowEvHandlerName="dtSenaraiRowChangeEventHandler" msprop:Generator_RowDeletedName="dtSenaraiRowDeleted" msprop:Generator_RowClassName="dtSenaraiRow" msprop:Generator_UserTableName="dtSenarai" msprop:Generator_RowEvArgName="dtSenaraiRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mem_name" msprop:Generator_ColumnVarNameInTable="columnmem_name" msprop:Generator_ColumnPropNameInRow="mem_name" msprop:Generator_ColumnPropNameInTable="mem_nameColumn" msprop:Generator_UserColumnName="mem_name" type="xs:string" minOccurs="0" />
+              <xs:element name="mem_member_no" msprop:Generator_ColumnVarNameInTable="columnmem_member_no" msprop:Generator_ColumnPropNameInRow="mem_member_no" msprop:Generator_ColumnPropNameInTable="mem_member_noColumn" msprop:Generator_UserColumnName="mem_member_no" type="xs:string" minOccurs="0" />
+              <xs:element name="mem_new_icno" msprop:Generator_ColumnVarNameInTable="columnmem_new_icno" msprop:Generator_ColumnPropNameInRow="mem_new_icno" msprop:Generator_ColumnPropNameInTable="mem_new_icnoColumn" msprop:Generator_UserColumnName="mem_new_icno" type="xs:string" minOccurs="0" />
+              <xs:element name="mem_region_cd" msprop:Generator_ColumnVarNameInTable="columnmem_region_cd" msprop:Generator_ColumnPropNameInRow="mem_region_cd" msprop:Generator_ColumnPropNameInTable="mem_region_cdColumn" msprop:Generator_UserColumnName="mem_region_cd" type="xs:string" minOccurs="0" />
+              <xs:element name="mem_branch_cd" msprop:Generator_ColumnVarNameInTable="columnmem_branch_cd" msprop:Generator_ColumnPropNameInRow="mem_branch_cd" msprop:Generator_ColumnPropNameInTable="mem_branch_cdColumn" msprop:Generator_UserColumnName="mem_branch_cd" type="xs:string" minOccurs="0" />
+              <xs:element name="set_reason_cd" msprop:Generator_ColumnVarNameInTable="columnset_reason_cd" msprop:Generator_ColumnPropNameInRow="set_reason_cd" msprop:Generator_ColumnPropNameInTable="set_reason_cdColumn" msprop:Generator_UserColumnName="set_reason_cd" type="xs:string" minOccurs="0" />
+              <xs:element name="set_apply_amt" msprop:Generator_ColumnVarNameInTable="columnset_apply_amt" msprop:Generator_ColumnPropNameInRow="set_apply_amt" msprop:Generator_ColumnPropNameInTable="set_apply_amtColumn" msprop:Generator_UserColumnName="set_apply_amt" type="xs:string" minOccurs="0" />
+              <xs:element name="set_appprove_dt" msprop:Generator_ColumnVarNameInTable="columnset_appprove_dt" msprop:Generator_ColumnPropNameInRow="set_appprove_dt" msprop:Generator_ColumnPropNameInTable="set_appprove_dtColumn" msprop:Generator_UserColumnName="set_appprove_dt" type="xs:string" minOccurs="0" />
+              <xs:element name="mem_applicant_type_cd" msprop:Generator_ColumnVarNameInTable="columnmem_applicant_type_cd" msprop:Generator_ColumnPropNameInRow="mem_applicant_type_cd" msprop:Generator_ColumnPropNameInTable="mem_applicant_type_cdColumn" msprop:Generator_UserColumnName="mem_applicant_type_cd" type="xs:string" minOccurs="0" />
+              <xs:element name="Area_Name" msprop:Generator_ColumnVarNameInTable="columnArea_Name" msprop:Generator_ColumnPropNameInRow="Area_Name" msprop:Generator_ColumnPropNameInTable="Area_NameColumn" msprop:Generator_UserColumnName="Area_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="kavasan_name" msprop:Generator_ColumnVarNameInTable="columnkavasan_name" msprop:Generator_ColumnPropNameInRow="kavasan_name" msprop:Generator_ColumnPropNameInTable="kavasan_nameColumn" msprop:Generator_UserColumnName="kavasan_name" type="xs:string" minOccurs="0" />
+              <xs:element name="cawangan_name" msprop:Generator_ColumnVarNameInTable="columncawangan_name" msprop:Generator_ColumnPropNameInRow="cawangan_name" msprop:Generator_ColumnPropNameInTable="cawangan_nameColumn" msprop:Generator_UserColumnName="cawangan_name" type="xs:string" minOccurs="0" />
+              <xs:element name="Applicant_Name" msprop:Generator_ColumnVarNameInTable="columnApplicant_Name" msprop:Generator_ColumnPropNameInRow="Applicant_Name" msprop:Generator_ColumnPropNameInTable="Applicant_NameColumn" msprop:Generator_UserColumnName="Applicant_Name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

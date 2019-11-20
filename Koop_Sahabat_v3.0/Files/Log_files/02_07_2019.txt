@@ -1,0 +1,56 @@
+
+Log Entry :
+07/02/2019 09:19:57
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/02/2019 10:14:57
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/02/2019 10:25:02
+Error in: http://localhost:63607/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/02/2019 11:00:30
+Error in: http://localhost:49729/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/02/2019 12:02:55
+Error in: http://localhost:49729/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/02/2019 16:54:01
+Error in: http://localhost:49729/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/02/2019 17:02:14
+Error in: http://localhost:49729/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+07/02/2019 17:48:49
+Error in: http://localhost:49729/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================

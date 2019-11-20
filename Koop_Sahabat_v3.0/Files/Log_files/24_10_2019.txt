@@ -1,0 +1,115 @@
+
+Log Entry :
+10/24/2019 10:01:07
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/24/2019 10:52:22
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/24/2019 10:52:36
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10001     Line :114
+==========================================
+
+Log Entry :
+10/24/2019 11:03:22
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10055     Line :114
+==========================================
+
+Log Entry :
+10/24/2019 11:29:45
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/24/2019 11:29:56
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10055     Line :114
+==========================================
+
+Log Entry :
+10/24/2019 11:39:55
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/24/2019 11:51:11
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10055     Line :114
+==========================================
+
+Log Entry :
+10/24/2019 11:55:28
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10055     Line :114
+==========================================
+
+Log Entry :
+10/24/2019 14:17:33
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/24/2019 15:33:08
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/24/2019 16:22:46
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/24/2019 17:10:07
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10001     Line :114
+==========================================
+
+Log Entry :
+10/24/2019 17:10:49
+Error in: http://localhost:50554/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\30_09_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1269Line :1336
+==========================================
+
+Log Entry :
+10/24/2019 17:11:28
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+10/24/2019 17:52:49
+Error in: http://localhost:50554/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================

@@ -1,0 +1,70 @@
+
+Log Entry :
+04/04/2019 10:50:50
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/04/2019 12:02:14
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/04/2019 12:11:22
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/04/2019 13:02:40
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/04/2019 14:29:06
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/04/2019 16:00:22
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/04/2019 16:02:55
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/04/2019 16:11:10
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/04/2019 16:55:07
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/04/2019 18:12:29
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================

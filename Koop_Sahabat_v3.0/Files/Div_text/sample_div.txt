@@ -1,0 +1,2 @@
+div_new_icno     |div_batch_name|div_bank_acc_no|        div_bank_cd|div_pay_dt
+111111111111     |DVYYYYMMDD|	111111111111|        BBBBBBBB|15022017

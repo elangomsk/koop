@@ -1,0 +1,295 @@
+
+Log Entry :
+04/01/2019 15:45:27
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/01/2019 15:47:39
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/01/2019 15:49:22
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/01/2019 15:49:46
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 15:52:29
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 15:53:20
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:00:36
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :108
+==========================================
+
+Log Entry :
+04/01/2019 16:01:38
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:03:58
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:04:36
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:05:50
+Error in: http://localhost:60787/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\01_04_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1213Line :1279
+==========================================
+
+Log Entry :
+04/01/2019 16:10:55
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:11:10
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:11:24
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K040217Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:12:34
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:13:44
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:14:42
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:18:22
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:18:28
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K040217Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:31:46
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K070729Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:36:08
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:36:51
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:37:29
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K040217Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:39:25
+Error in: http://localhost:60787/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\01_04_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1216Line :1282
+==========================================
+
+Log Entry :
+04/01/2019 16:39:46
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:42:11
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:45:20
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:46:02
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K040217Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:46:31
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:47:04
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:49:26
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K040217Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:50:42
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 16:56:54
+Error in: http://localhost:60787/SUMBER_MANUSIA/HR_SEMAKAN.aspx?edit=Tg3R3dzL5d8qh2W0SyphdQ==. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_SEMAKAN.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\01_04_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_SEMAKAN.aspx.cs:line 657Line :733
+==========================================
+
+Log Entry :
+04/01/2019 17:29:13
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 17:35:49
+Error in: http://localhost:60787/SUMBER_MANUSIA/HR_SEMAKAN.aspx?edit=Tg3R3dzL5d8qh2W0SyphdQ==. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_SEMAKAN.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\01_04_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_SEMAKAN.aspx.cs:line 658Line :734
+==========================================
+
+Log Entry :
+04/01/2019 17:35:53
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 17:41:24
+Error in: http://localhost:60787/SUMBER_MANUSIA/HR_SEMAKAN.aspx?edit=Tg3R3dzL5d8qh2W0SyphdQ==. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_SEMAKAN.send_email() in d:\vengatesan\Current_projects\KOOP_SAHABAT_v3.0\01_04_2019\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_SEMAKAN.aspx.cs:line 669Line :745
+==========================================
+
+Log Entry :
+04/01/2019 17:41:39
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K090240Line :108
+==========================================
+
+Log Entry :
+04/01/2019 17:46:12
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================
+
+Log Entry :
+04/01/2019 18:01:32
+Error in: http://localhost:60787/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for K081134Line :108
+==========================================

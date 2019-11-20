@@ -1,0 +1,161 @@
+
+Log Entry :
+11/12/2019 09:12:05
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+11/12/2019 09:43:44
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+11/12/2019 10:05:16
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10001     Line :114
+==========================================
+
+Log Entry :
+11/12/2019 10:31:43
+Error in: http://localhost:50379/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\Elango\Koop_Sahabat_v3.0\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1269Line :1336
+==========================================
+
+Log Entry :
+11/12/2019 10:41:21
+Error in: http://localhost:50379/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\Elango\Koop_Sahabat_v3.0\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1269Line :1336
+==========================================
+
+Log Entry :
+11/12/2019 11:07:02
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+11/12/2019 11:28:06
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+11/12/2019 11:28:49
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10001     Line :114
+==========================================
+
+Log Entry :
+11/12/2019 12:23:16
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10001     Line :114
+==========================================
+
+Log Entry :
+11/12/2019 12:24:24
+Error in: http://localhost:50379/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\Elango\Koop_Sahabat_v3.0\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1269Line :1336
+==========================================
+
+Log Entry :
+11/12/2019 12:44:17
+Error in: http://localhost:50379/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\Elango\Koop_Sahabat_v3.0\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1269Line :1336
+==========================================
+
+Log Entry :
+11/12/2019 12:44:51
+Error in: http://localhost:50379/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\Elango\Koop_Sahabat_v3.0\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1269Line :1336
+==========================================
+
+Log Entry :
+11/12/2019 14:07:25
+Error in: http://localhost:50379/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\Elango\Koop_Sahabat_v3.0\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1269Line :1336
+==========================================
+
+Log Entry :
+11/12/2019 14:07:36
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+11/12/2019 14:08:11
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10001     Line :114
+==========================================
+
+Log Entry :
+11/12/2019 14:09:19
+Error in: http://localhost:50379/SUMBER_MANUSIA/HR_MOHON_CUTI.aspx. 
+
+ Error Message:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HR_MOHON_CUTI.send_email() in d:\Elango\Koop_Sahabat_v3.0\Koop_Sahabat_v3.0\SUMBER_MANUSIA\HR_MOHON_CUTI.aspx.cs:line 1269Line :1336
+==========================================
+
+Log Entry :
+11/12/2019 14:25:03
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+11/12/2019 16:17:09
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for 10001     Line :114
+==========================================
+
+Log Entry :
+11/12/2019 16:21:41
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================
+
+Log Entry :
+11/12/2019 17:39:47
+Error in: http://localhost:50379/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :114
+==========================================

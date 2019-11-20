@@ -1,0 +1,28 @@
+
+Log Entry :
+05/27/2019 15:01:20
+Error in: http://localhost:53845/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+05/27/2019 16:15:20
+Error in: http://localhost:53845/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+05/27/2019 17:54:09
+Error in: http://localhost:53845/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================
+
+Log Entry :
+05/27/2019 17:59:51
+Error in: http://localhost:53845/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :109
+==========================================

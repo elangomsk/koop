@@ -1,0 +1,21 @@
+
+Log Entry :
+08/23/2019 10:04:40
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :113
+==========================================
+
+Log Entry :
+08/23/2019 13:57:23
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :113
+==========================================
+
+Log Entry :
+08/23/2019 17:55:04
+Error in: http://localhost:49572/KSAIMB_Login.aspx. 
+
+ Error Message:successful Login for adminLine :113
+==========================================
