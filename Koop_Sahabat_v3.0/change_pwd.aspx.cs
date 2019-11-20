@@ -20,6 +20,8 @@ using System.Windows.Forms;
 public partial class change_pwd : System.Web.UI.Page
 {
     
+
+    
     DBConnection Dblog = new DBConnection();
     string cs = ConfigurationManager.ConnectionStrings["KSAIMBConnectionString"].ConnectionString;
     SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["KSAIMBConnectionString"].ConnectionString);
